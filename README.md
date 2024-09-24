@@ -1,4 +1,4 @@
-<h1>Siddharth Sameer Nevgi</h1>
+<h2>Siddharth Sameer Nevgi</h2>
 <h3>Welcome to my GitHub profile! I'm passionate about web development and competitive programming.</h3>
 
 ## Skills:
