@@ -1,18 +1,17 @@
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <center><h2><b>Siddharth Sameer Nevgi</b></h2></center>
-    <ul>
-      <li>Web development</li>
-      <li>Competitive Programming</li>
-    </ul>
-    <p>Skills:</p>
-    <a href='python.org'><img src='https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png' style="width:50px;height:50px">
-    <a href='python.org'><img src='https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png' style="width:50px;height:50px">
-    <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>
+<h1>Siddharth Sameer Nevgi</h1>
+<h3>Welcome to my GitHub profile! I'm passionate about web development and competitive programming.</h3>
 
-  </body>
-</html>
+## Skills:
+[![Python](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org) 
+[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Connect with Me:
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/siddharth-sameer-nevgi/) [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/sid_nevgi/)
+
+
+
+
+
 
