@@ -10,10 +10,17 @@
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/) 
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/) 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" href="https://expressjs.com/" width="90" height="48"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="48" height="48"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="90" height="48"/>](https://expressjs.com/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="48" height="48"/>](https://www.postgresql.org/) 
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)  
 
 ## <h3>Connect with Me:</h3>
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/siddharth-sameer-nevgi/) 
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/sid_nevgi/) 
+
+## <h3>GitHub Stats:</h3>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-Sameer-Nevgi&show_icons=true&theme=tokyonight" alt="Siddharth's GitHub Stats" height="20%" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Sameer-Nevgi&layout=compact&theme=tokyonight" alt="Top Languages" height="40%" width="40%"> </p>
+
+## <h3>Pinned Repositories:</h3>
+<p> <a href="https://github.com/Siddharth-Sameer-Nevgi/Amazon-website-clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharth-Sameer-Nevgi&repo=Amazon-website-clone&theme=tokyonight" width="45%"/> </a> <a href="https://github.com/Siddharth-Sameer-Nevgi/Weather-Forecast-App-OpenWeatherMap-API"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharth-Sameer-Nevgi&repo=Weather-Forecast-App-OpenWeatherMap-API&theme=tokyonight" width="45%"/> </a> </p> 
