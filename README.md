@@ -21,6 +21,3 @@
 ## <h3>GitHub Stats:</h3>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Siddharth-Sameer-Nevgi&show_icons=true&theme=tokyonight" alt="Siddharth's GitHub Stats" height="20%" width="48%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Sameer-Nevgi&layout=compact&theme=tokyonight" alt="Top Languages" height="40%" width="40%"> </p>
-
-## <h3>Pinned Repositories:</h3>
-<p> <a href="https://github.com/Siddharth-Sameer-Nevgi/Amazon-website-clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharth-Sameer-Nevgi&repo=Amazon-website-clone&theme=tokyonight" width="45%"/> </a> <a href="https://github.com/Siddharth-Sameer-Nevgi/Weather-Forecast-App-OpenWeatherMap-API"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddharth-Sameer-Nevgi&repo=Weather-Forecast-App-OpenWeatherMap-API&theme=tokyonight" width="45%"/> </a> </p> 
